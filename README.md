@@ -34,6 +34,10 @@ Fibroid_pred/
 ├── requirements.txt
 └── README.md
 ```
+## API Endpoints
+Endpoint                    Method                  Description
+```/predict```              POST                    Single Prediction
+```/predict-batch```        POST                    Batch predictions
 
 ## Contributing
 
