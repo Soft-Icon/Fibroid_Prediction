@@ -36,8 +36,8 @@ Fibroid_pred/
 ```
 ## API Endpoints
 Endpoint                    Method                  Description
-```/predict```              POST                    Single Prediction
-```/predict-batch```        POST                    Batch predictions
+- ```/predict```              POST                    Single Prediction
+- ```/predict-batch```        POST                    Batch predictions
 
 ## Contributing
 
