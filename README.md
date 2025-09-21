@@ -41,14 +41,16 @@ Fibroid_pred/
 ## API Endpoints
 1. Single prediction
 - URL:
-```/predict
+```
+/predict
 ```              
 - Method: POST
 - Description: Accepts patient data and returns a fibroid prediction ("No" Fibroid, "Yes" Fibroid).
 
 2. Batch predictions
 - URL: 
-```/predict-batch
+```
+/predict-batch
 ```
 - Method: POST
 - Description: Accepts a list of patients and returns predictions for each.
